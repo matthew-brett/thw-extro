@@ -1,4 +1,4 @@
-# Introduction for THW at UoB
+# Importance of community in open-source
 
 In the `images` folder:
 
